@@ -29,4 +29,10 @@ section {
     min-height: 50px;
 }
 
+#contacts input,
+#contacts textarea {
+    border-radius: 0;
+    border-width: 0 0 1px 0;
+    border-color: darkgray;
+}
 
